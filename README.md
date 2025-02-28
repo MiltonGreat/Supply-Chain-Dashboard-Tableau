@@ -26,11 +26,6 @@ The dataset contains the following fields:
 5. Revenue Distribution by Location
 6. Lead Time Analysis
 
-Tools Used
-
-    Tableau Public: For interactive data visualization and dashboard creation.
-    Data Source: Supply Chain Dataset (containing product, inventory, shipping, supplier, and cost details).
-
 ### Source
 
 https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
