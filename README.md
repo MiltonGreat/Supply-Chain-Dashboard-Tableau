@@ -2,6 +2,8 @@
 
 ![Dashboard 1(5)](https://github.com/user-attachments/assets/c7e443d9-e0d8-42cb-97b8-0a4f4076fec6)
 
+![Link to Tableau Page](https://public.tableau.com/views/SupplyChainDashboard_17407754269520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Overview
 
 This project involves the development of an interactive Tableau dashboard to analyze supply chain data. The objective is to gain insights into supplier performance, identify key cost drivers, and find patterns that can help optimize operations. The dashboard provides a comprehensive view of revenue, costs, sales performance, inventory levels, shipping efficiency, defect rates, and lead times.
